@@ -1,5 +1,5 @@
-# Ped_Sim-Cellular-Automata-
-A GUI based notebook for visualizing crowd simulation based on Cellular Automata Approach
+# Pedestrian Sim
+A GUI based notebook for visualizing crowd movement simulation based on Cellular Automata Approach
 
 ## Define Pedestrians(red) and Single Target
 A cell turns from empty state to pedestrian state after left mouse click. Multiple cells state can be toggled by hovering the mouse pressing left mouse button.
